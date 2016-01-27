@@ -1,6 +1,8 @@
+#!/usr/bin/env python
+
 from sys import argv
-import utility.hex_util as hex_util
-import utility.hash_util as hash_util
+from utility import hex_util
+from utility import hash_util
 
 args = argv
 
