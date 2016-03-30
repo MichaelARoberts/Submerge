@@ -7,7 +7,7 @@ Submerge is an ongoing project to help digital investigators gain access to info
 I wanted a method that could hash and hex a file, that would produce numerous types of results beyond what the hashsum utilities in linux provide. I also wanted a base for many other tools I might develop.
 
 ### What's Required?
-Any terminal, and a markdown/textviewer viewer to read results in .md files.
+Any terminal, and a copy of Python(2.7+ supported)
 
 ### What's Included?
 The library has numerous parts they are as follows
